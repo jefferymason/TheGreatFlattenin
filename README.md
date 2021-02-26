@@ -1,2 +1,1 @@
-# octomembers
-Project for RW Android Layouts video team course
+![flattening](https://github.com/jefferymason/TheGreatFlattening/blob/master/flattening.png)
